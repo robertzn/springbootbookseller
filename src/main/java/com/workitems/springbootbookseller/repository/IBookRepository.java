@@ -1,4 +1,4 @@
-package com.workitems.git init.repository;
+package com.workitems.springbootbookseller.repository;
 
 import com.workitems.springbootbookseller.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
